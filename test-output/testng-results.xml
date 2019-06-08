@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2019-06-06T18:54:40Z" finished-at="2019-06-06T18:54:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2019-06-06T18:54:40Z" finished-at="2019-06-06T18:54:40Z">
+      <class name="com.wbl.TestCases.TestCompareArr">
+        <test-method status="PASS" signature="testCompareArray()[pri:0, instance:com.wbl.TestCases.TestCompareArr@7ac7a4e4]" name="testCompareArray" duration-ms="13" started-at="2019-06-06T18:54:40Z" finished-at="2019-06-06T18:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompareArray -->
+        <test-method status="PASS" signature="testCompareArray2()[pri:0, instance:com.wbl.TestCases.TestCompareArr@7ac7a4e4]" name="testCompareArray2" duration-ms="1" started-at="2019-06-06T18:54:40Z" finished-at="2019-06-06T18:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompareArray2 -->
+      </class> <!-- com.wbl.TestCases.TestCompareArr -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
